@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Stream YTS</string>
+    <string name="error_message">Error Loading movies</string>
+    <string name="Sort_by">Sort by</string>
+    <string name="most_popular">Latest Movies</string>
+    <string name="Top_rated">Top Rated</string>
+    <string name="most_popularM">Latest Movies</string>
+    <string name="Top_ratedM">Top Rated Movies</string>
+    <string name="Movie_Detail">Movie Detail</string>
+    <string name="detail_error_message">Movie data not available</string>
+    <string name="trailers">Trailers:</string>
+    <string name="mark_as">Mark As Favorite</string>
+    <string name="reviews">Reviews:</string>
+    <string name="favorite">Favorite</string>
+    <string name="favoritesM">Favorite Movies</string>
+    <string name="share">Share</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="note_for_stream">You have to download VLC or MX player for streaming
+    in case streaming with MX player you may have to adjust decoder method
+    </string>
+    <string name="note_for_streaming_2">Streaming will began when the progress bar finishes its loading</string>
+    <string name="stream_in_720p">Stream in 720P</string>
+    <string name="stream_in_1080p">stream in 1080P</string>
+    <string name="streaming_may_take_up_to_5_minutes_to_start">Streaming may take up to 5 minutes or more  to start according to internet connection speed</string>
+
+</resources>
